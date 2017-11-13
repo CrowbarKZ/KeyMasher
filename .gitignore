@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
+venv/
 build/
 develop-eggs/
 dist/
@@ -90,6 +91,10 @@ ENV/
 # Spyder project settings
 .spyderproject
 .spyproject
+
+# Sublime text files
+*.sublime-project
+*.sublime-workspace
 
 # Rope project settings
 .ropeproject
